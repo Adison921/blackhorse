@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1603cebe-f100-40b9-8e70-5f9eb56d5051" name="Default Changelist" comment="" />
+    <list default="true" id="1603cebe-f100-40b9-8e70-5f9eb56d5051" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1c3zJEIyfao2k6mwODeoPRmwosR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -136,7 +142,8 @@
       <workItem from="1590504627235" duration="53000" />
       <workItem from="1590506381481" duration="4579000" />
       <workItem from="1590638423868" duration="2684000" />
-      <workItem from="1591001030112" duration="1754000" />
+      <workItem from="1591001030112" duration="2215000" />
+      <workItem from="1591004337834" duration="1829000" />
     </task>
     <servers />
   </component>
@@ -152,6 +159,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="433" y="142" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1589772005999" />
+    <state x="1104" y="220" key="FileChooserDialogImpl" timestamp="1591004142181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1104" y="220" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591004142181" />
     <state width="1107" height="171" key="GridCell.Tab.0.bottom" timestamp="1590592696836">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -197,10 +208,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589772080249" />
-    <state x="356" y="28" key="new project wizard" timestamp="1589786835534">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="444" y="204" key="new project wizard" timestamp="1591004254069">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="356" y="28" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1589786835534" />
+    <state x="444" y="204" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1591004254069" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590139678249">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
